@@ -4,7 +4,7 @@
 > **Status:** Active Development
 > **Target Word Count:** 100,000 words
 > **Language:** English
-> **Last Updated:** 2026
+> **Last Updated:** 4/13/2026
 
 ---
 
@@ -29,10 +29,11 @@
 | Field | Detail |
 |---|---|
 | Title | Isekai Conqueror |
-| Genre | Sci-Fi, Comedy, Harem, Geopolitics, Kingdom Building, War, Strategic Battle, Adventure, Reincarnation |
-| Setting | World of Orion, a fantasy world with five isolated continents |
+| Main Genre | Sci-Fi, Comedy, Geopolitics, Kingdom Building |
+| Sub Genre | Harem, Wars, Strategic Battle, Adventure, Reincarnation, R-18, Conquer, Advance Technology, Original, Magic, Monsters, Fantasy World, Male Protagonist, Medieval, Modern Knowledge, Business Management, Economics, Dragons, Elves, Family, Fantasy Creatures, Magical Technology, Scientific Technology, Military, Army, Merchants, Kingdoms, Depiction of cruelty, world travel, artificial intelegence, Protagonist strong from the start, transport to another world, Genetic modification, biotecnology, android, beautiful female lead, firearms, master-servant relationship, slavery, technological gap, war records, domestic affairs, beastkin, arms dealer, hikikomori, transported modern structur |
+| Setting | World of Orion, a fantasy world with magic civilization |
 | Protagonist | Julius Borealis, Emperor of the Solar Empire |
-| Core Concept | A grand strategy game player wakes up as his own in-game character, leading his sci-fi nation that has been transported wholesale into a fantasy world |
+| Core Concept | A grand strategy game player wakes up as his own in-game character, leading his scientific nation that has been transported wholesale into a fantasy world |
 | Tone | Strategic and geopolitical with consistent comedy through the protagonist's reluctant and self-justifying personality |
 | Target Length | 100,000 words |
 | Chapter Length | 1,000 to 3,000 words per chapter |
@@ -45,7 +46,9 @@
 | Yamato Empire Chronicles | Geopolitical structure, multi-nation diplomacy, military campaign scale |
 | Shadow Garden | Secret organization element, protagonist with hidden capabilities unknown to others (to be developed) |
 | KonoSuba | Comedy tone, reluctant protagonist who complains consistently, self-justifying internal monologue |
-| Isekai Conqueror (GDD) | World of Orion, five-continent structure, general system, Solar Empire as source nation |
+| How a Realist Hero Rebuilt the Kingdom | protagonist become ruler of nation and harmonious harem life with main wife and concubine |
+| the prince, machiavelli | main political strategies |
+| the art of war, sun tzu | main battle strategies |
 
 ---
 
@@ -101,9 +104,10 @@ Highly competent strategist who defaults to the path of least personal inconveni
 - Space Barbarian (the one that stuck)
 
 **Known Abilities / Assets:**
-- Royal Authority (see Technology section)
 - Full command of Solar Empire military and research apparatus
-- Strategic knowledge of all five continents from the game's data
+- Full access to all solar empire technology
+- full access to all resource in solar island
+- imperial authority
 
 **Relationships:**
 | Character | Status | Notes |
@@ -126,7 +130,7 @@ Highly competent strategist who defaults to the path of least personal inconveni
 **Known Information:**
 - Sovereign divine of the world of Orion
 - Transferred the Solar Empire from the game world into Orion
-- Claims to need Julius to unite five continents before an ancient threat awakens beneath the Abyssal Ocean
+- Claims to need Julius to unite five continents before an ancient threat invade from outer space
 - Has a habit of appearing at inconvenient moments with additional bad news
 - Her actual motives have not been confirmed
 
@@ -134,46 +138,28 @@ Highly competent strategist who defaults to the path of least personal inconveni
 
 ### 3.3 Characters Established in GDD (Not Yet Appeared in Novel)
 
-These characters exist in the source GDD and will be introduced in their respective arcs.
-
-| Name | Region | Role | GDD Rarity | Notes |
-|---|---|---|---|---|
-| Julia Caesar | Aurestia | Infantry Specialist, Leader of Legio Aurestia | Gold | First general encountered. Sarcastic, perfectionist, tests the protagonist before pledging loyalty. Red hair, green eyes. |
-| Cleopatra | Aurestia | TBD | TBD | Paired with Julia Caesar in Bond/Pact system |
-| Leonidas | Aurestia | TBD | TBD | |
-| Jeanne d'Arc | Valdenmoor | TBD | TBD | |
-| Saladin | Valdenmoor | TBD | TBD | Paired with Jeanne d'Arc |
-| Richard I | Valdenmoor | TBD | TBD | |
-| Oda Nobunaga | Sakurima | TBD | TBD | |
-| Wu Zetian | Sakurima | TBD | TBD | |
-| Genghis Khan | Sakurima | TBD | TBD | |
-| Napoleon | Grandilion | TBD | TBD | |
-| Wellington | Grandilion | TBD | TBD | |
-| Kutuzov | Grandilion | TBD | TBD | |
-| Ragnar | The Shattered North | TBD | TBD | |
-| Boudicca | The Shattered North | TBD | TBD | |
-| Attila | The Shattered North | TBD | TBD | |
-
-**Note:** All generals in the GDD are genderbent historical figures reincarnated as female characters with full combat power but no memories of their past lives.
-
----
+-
 
 ## 4. FACTIONS AND NATIONS
 
 ### 4.1 Solar Empire
 
-**Type:** Sci-Fi Nation (player-created)
+**Type:** Scientific Civilization (player-created)
+**Race:** Homo Perfectus
 **Location:** Transferred from game server into Orion. Exact landing coordinates TBD.
 **Leader:** Julius Borealis, Emperor
-**Population:** Approximately 23 million
-**Strategic Doctrine:** Island defense, technological superiority, resource accumulation, minimal direct engagement
+**Population:** Approximately 5 million, after transported: 1.
+**Strategic Doctrine:** Island defense, technological superiority, resource accumulation, minimal direct engagement, assymetric warfare
 
 **National Identity:**
 The Solar Empire was built by Julius as a defensive research nation on an isolated island. It deliberately avoided conventional land warfare by investing in navy, advanced technology, and teleportation-based raiding. It is the most technologically advanced nation on the server and, after the transfer, likely the most technologically advanced entity in Orion by a margin that has not yet been measured.
 
 **Military Structure:**
 - Solar Navy (one fourth of former server's total naval power)
-- Teleportation strike units
+- limited Teleportation tecnology
+- Solar special forces (for raiding)
+- clone army (human clone)
+- android army (mass produce human shaped robot)
 - ICBM arsenal (depleted after End Game War, requires rebuilding)
 - Orbital surveillance infrastructure
 - Multiple layered coastal and aerial defense systems
@@ -183,20 +169,14 @@ The Solar Empire was built by Julius as a defensive research nation on an isolat
 - Supply lines and resource infrastructure need re-establishment in Orion
 - No existing intelligence on Orion's terrain, nations, or military capabilities beyond game data (which may not be accurate)
 - Magic is completely outside current technological understanding
+- isolated
+- focus only on developing military technology
 
 ---
 
 ### 4.2 The Five Continents of Orion
 
-*(From GDD. Novel details to be expanded per arc.)*
-
-| Continent | Inspiration | Current Status in Story | Key Conflict |
-|---|---|---|---|
-| Aurestia | Rome and Ancient Greece | Arc 1 setting | Three noble factions fighting for Senator position, two villages already destroyed |
-| Valdenmoor | Medieval Europe | Arc 2, not yet reached | TBD |
-| Sakurima | Japan, China, Mongolia | Arc 3, not yet reached | TBD |
-| Grandilion | Napoleonic Era | Arc 4, not yet reached | TBD |
-| The Shattered North | Viking and Barbarian | Arc 5, not yet reached | TBD |
+-
 
 ---
 
@@ -206,22 +186,18 @@ The Solar Empire was built by Julius as a defensive research nation on an isolat
 
 Orion is a parallel world governed by a divine entity known as the Goddess of Orion. Magic is the dominant technology, functioning through means that Solar Empire science cannot currently measure or replicate. The five continents are separated by the Abyssal Ocean.
 
-### 5.2 The Abyssal Ocean
+**Strategic implication for Solar Empire:** The Solar Navy is currently the most powerful naval force Julius has access to, but its effectiveness is unknown. Ocean crossing will become a major story objective in later arcs.
 
-A vast and lethal body of water separating all five continents. No expedition has ever successfully crossed it. The reason is the Levianthos, ancient sea creatures of enormous scale that destroy any vessel attempting to cross deep water. The Abyssal Ocean functions as both a geographic barrier and a narrative mystery.
+### 5.3 The outer space invader
 
-**Strategic implication for Solar Empire:** The Solar Navy is currently the most powerful naval force Julius has access to, but its effectiveness against Levianthos is unknown. Ocean crossing will become a major story objective in later arcs.
-
-### 5.3 The Ancient Threat
-
-Something old is sleeping beneath the Abyssal Ocean. The Goddess claims this is the true reason she summoned Julius. Its connection to the Levianthos, to the simultaneous destabilization of all five continents, and to the Goddess's actual motives has not been revealed. This is the overarching antagonist of the story.
+Something old is sleeping beneath the Ocean of stars will wake up and invade orion. The Goddess claims this is the true reason she summoned Julius. Its connection to orion, to the simultaneous destabilization of all five continents, and to the Goddess's actual motives has not been revealed. This is the overarching antagonist of the story.
 
 ### 5.4 Magic
 
 Magic is the technological foundation of Orion's native civilizations. Properties currently established:
 - Cannot be measured by Solar Empire instruments
 - Cannot be replicated by Solar Empire technology
-- Enables feats physically impossible by conventional science (splitting the earth with a sword strike, redirecting lightning)
+- Enables feats physically impossible by conventional science
 - Its upper limits are unknown
 
 **Plot thread:** The "yet" in "cannot measure or explain yet" is intentional. Solar Empire research into magic is a long-term story development.
@@ -237,9 +213,9 @@ Magic is the technological foundation of Orion's native civilizations. Propertie
 | ICBM (Solar ICBM) | Intercontinental ballistic missiles launched from prototype spaceship. Used to destroy all remaining enemy capitals in End Game War. | Stockpile fully depleted. Requires rebuilding. |
 | Mark.I-TPMC | Teleportation machine capable of deploying strike teams directly into enemy territory without warning. Raids were called Solar Pandemic. | Status after transfer unknown. |
 | Satellite Network | Orbital surveillance providing precise enemy positioning. Used during End Game War. | Status after transfer unknown. Likely still operational. |
-| Prototype Spaceship | Served as ICBM launch platform. | Status after transfer unknown. |
+| Prototype Spaceship | main space station headquarters and Served as ICBM launch platform. | Status after transfer unknown. |
 | Multi-Layer Defense System | Layered coastal and aerial defense capable of defeating fleets and landing forces. Two layers were breached during End Game War before being restored. | Requires assessment after transfer. |
-| Royal Authority | A power granted by the Goddess of Orion. Manifests as a heads-up display providing information about individuals (name, stats, status). Also shows relationship status notifications. Exact limits unknown. | Active. Julius is still learning to control it deliberately. |
+
 
 ### 6.2 Implied Technologies (Nation Profile, Not Yet Confirmed in Story)
 
@@ -257,7 +233,7 @@ The Solar Empire's technology was described as the most advanced on the entire s
 - Magic counters this asymmetry in ways not yet understood
 - The ICBM stockpile needs rebuilding
 - Supply chains for advanced manufacturing need re-establishment in Orion
-- The Ancient Threat may not be vulnerable to conventional weaponry regardless of technological level
+- The invades Threat may not be vulnerable to conventional weaponry regardless of technological level
 
 ---
 
@@ -268,13 +244,6 @@ The Solar Empire's technology was described as the most advanced on the entire s
 | Section | Estimated Words | Notes |
 |---|---|---|
 | Prologue Arc (Pre-Orion) | 5,000 to 8,000 | Game world, End Game War, transfer moment |
-| Arc 1: Aurestia | 20,000 to 25,000 | First contact, Solar Empire establishes position, Julia Caesar, three noble factions |
-| Arc 2: Valdenmoor | 18,000 to 22,000 | Medieval continent, siege warfare, Jeanne d'Arc |
-| Arc 3: Sakurima | 18,000 to 22,000 | Eastern continent, honor system, Oda Nobunaga |
-| Arc 4: Grandilion | 15,000 to 18,000 | Industrial era continent, artillery |
-| Arc 5: The Shattered North | 12,000 to 15,000 | Viking continent, extreme weather |
-| Final Arc: Abyssal Ocean | 8,000 to 12,000 | Levianthos, Ancient Threat, Goddess's true motive |
-| **Total** | **96,000 to 122,000** | On target for 100,000 word goal |
 
 ### 7.2 Prologue Arc
 
@@ -284,79 +253,27 @@ The Solar Empire's technology was described as the most advanced on the entire s
 
 | Chapter | Title | Status | Word Count | Summary |
 |---|---|---|---|---|
-| 1 | Prologue | Complete | ~1,800 | Julius wins End Game War, falls asleep |
-| 2 | Transfer | Planned | TBD | Julius wakes up in Orion as Julius Borealis |
-| 3 | Assessment | Planned | TBD | Julius evaluates Solar Empire status after transfer, first contact with Orion reality |
+| 1 | Prologue | Complete | 1418 | Julius wins End Game War, falls asleep |
+| 2 | Go To Orion But The Goddess Who Called Me Is Useless | 1866 | complete | Julius meet with nebula, goddess of orion |
+
 
 **Key events to establish in this arc:**
 - Julius confirms the Solar Empire has been physically transferred, not just him
 - First assessment of what technologies survived the transfer intact
-- Royal Authority activates for the first time
-- First encounter with Orion's environment (magic, medieval civilization, Aurestia)
-- Goddess of Orion makes direct contact and explains the situation
+- First encounter with Orion's environment 
 - Julius's reaction establishes his personality for new readers who missed Chapter 1
 
 ---
 
-### 7.3 Arc 1: Aurestia
 
-**Status:** Planned
-
-**Setting:** Roman and Greek inspired continent. City-states, colosseums, Mediterranean terrain.
-
-**Political Situation (from GDD):**
-Three noble factions fighting for the position of Senator Agung. Each faction has private militias. Two villages in the south have already been destroyed in "accidental" cross-fire. Julia Caesar's Legio Aurestia is maintaining neutrality but cannot sustain it indefinitely without higher authority.
-
-**Key Characters to Introduce:**
-- Julia Caesar (Gold tier general, first ally)
-- Three unnamed noble faction leaders (antagonists of the arc)
-- Possibly Cleopatra and Leonidas in later chapters
-
-**Arc Goal:**
-Julius must neutralize the three-faction civil conflict and stabilize Aurestia under Solar Empire authority, earning Julia Caesar's allegiance in the process.
-
-**Tone Notes:**
-- Comedy from the contrast between Solar Empire's overwhelming technological advantage and the medieval political complexity that firepower alone cannot solve
-- Julia Caesar's skepticism toward Julius is the emotional core
-- The arc should end with Julius controlling Aurestia but recognizing that military power and political legitimacy are different problems
-
-**Planned Chapter Beats:**
-
-| Beat | Description |
-|---|---|
-| First contact with Aurestia | Solar Empire's arrival is witnessed by locals, reactions range from terror to religious interpretation |
-| Meeting Julia Caesar | As established in GDD Chapter 1 script. Julia tests Julius before pledging |
-| Intelligence on three factions | Julius uses satellite surveillance and Royal Authority to map political structure |
-| First political move | Julius makes a calculated gesture that destabilizes one faction without direct combat |
-| Escalation | Remaining factions see Julius as a threat and attempt to form a temporary alliance against him |
-| Battle of Aurestia | Solar Empire's first full military engagement in Orion |
-| Resolution | Julius establishes formal Solar Empire authority over Aurestia. Julia Caesar joins as first general. |
-
----
-
-### 7.4 Arc 2 through Final Arc
-
-**Status:** Outline pending. Will be developed after Arc 1 is complete.
-
-**Broad Story Trajectory:**
-Each arc follows a similar structure: new continent, new political crisis, new general, new complication that the previous arc's solution does not cover. The overall trajectory moves from establishing the Solar Empire's presence in one continent toward the eventual confrontation with the Ancient Threat in the Abyssal Ocean.
-
-**Overarching threads running through all arcs:**
-- The Goddess's true motive and whether she can be trusted
-- Magic research: Solar Empire scientists working to understand and eventually interface with magic
-- The Ancient Threat's gradual awakening, signaled by increasingly strange events in each arc
-- Shadow Garden organization element (details TBD, to be introduced in mid-story)
-- Julius's reluctant transition from "survive and not be bothered" to genuine investment in Orion's future
-
----
 
 ## 8. WORD COUNT TRACKER
 
 | Chapter | Title | Status | Word Count |
 |---|---|---|---|
-| Chapter 1 | Prologue | Complete | ~1,800 |
-| Chapter 2 | TBD | Planned | 0 |
-| **Total** | | | **~1,800 / 100,000** |
+| Chapter 1 | Prologue | Complete | 1418 |
+| Chapter 2 | Go To Orion But The Goddess Who Called Me Is Useless | complete | 1866 |
+| **Total** | | | **3000 / 100,000** |
 
 ---
 
@@ -402,16 +319,10 @@ These rules apply to every chapter of the novel without exception.
 | Yamato Empire Chronicles | Isekai, Military, Geopolitics | Scale of inter-continental politics, military campaign pacing, empire-building structure |
 | Shadow Garden (Eminence in Shadow) | Isekai, Comedy, Action | Secret organization structure, protagonist with hidden depth, the gap between what the MC intends and what others perceive |
 | KonoSuba | Isekai, Comedy | Reluctant protagonist voice, consistent complaint-based humor, self-justifying internal logic |
-| Isekai Conqueror GDD v0.6 | Source Material | World of Orion, five-continent structure, general system, Solar Empire, Levianthos, Ancient Threat, Goddess of Orion |
-
+| How a Realist Hero Rebuilt the Kingdom | ruler of nation, harem life, kingdom structure, geopolitical story |
+| the prince machiaveli | politic strategies |
+| the art of war | military strategies |
 ---
 
-## 11. CHANGE LOG
-
-| Date | Change |
-|---|---|
-| 2026 | Project initiated. Synopsis finalized. Chapter 1 (Prologue) completed and revised. Master document created. |
-
----
 
 *This document is a living reference. Update after every chapter completion, every character introduction, and every story decision that affects future arcs.*
