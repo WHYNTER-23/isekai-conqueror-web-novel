@@ -340,8 +340,8 @@ The Solar Empire holds overwhelming technological superiority over all known Ori
 
 | Chapter | Title | Status | Word Count |
 |---|---|---|---|
-| Chapter 1 | Prologue | Complete | 1,468 |
-| Chapter 2 | Go To Orion But The Goddess Who Called Me Is Useless | Complete | 1,923 |
+| Chapter 1 | Prologue | Complete | 1,445 |
+| Chapter 2 | Go To Orion But The Goddess Who Called Me Is Useless | Complete | 1,893 |
 | **Total** | | | **3,391 / 100,000** |
 
 ---
