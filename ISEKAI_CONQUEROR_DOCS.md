@@ -262,7 +262,7 @@ Magic is the technological foundation of Orion's native civilizations.
 | Solar Artificial Intelligence | Onboard AI that monitors and announces operational outcomes. Announced Julius's world conquest at the end of End Game War. | Present. Operational details TBD. |
 | Clone Army | Human clone infantry for ground operations. | Present. Operational status post-transfer TBD. |
 | Android Army | Mass-produced humanoid combat robots. | Present. Operational status post-transfer TBD. |
-| Royal Authority | Granted by Nebula. Provides longevity and regenerative capability (survives any injury short of total cerebral destruction). Secondary function: information display showing names and status of individuals. | Active. Secondary function not yet fully controlled. |
+| Royal Authority | Granted by Nebula. Provides longevity and regenerative capability (survives any injury short of total cerebral destruction) |
 
 ### 6.2 Implied Technologies (Not Yet Confirmed in Story)
 
