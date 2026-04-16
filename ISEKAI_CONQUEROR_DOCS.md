@@ -115,7 +115,6 @@ Highly competent strategist who defaults to the path of least personal inconveni
 - Full command of Solar Empire military and research apparatus
 - Full access to all Solar Empire technology
 - Full access to all resources on Solar Island
-- Strategic knowledge of all five continents from game data (accuracy in real Orion unconfirmed)
 
 **Stated Wish (on record with Nebula):**
 When this is over, Julius intends to use his one divine wish to drag Nebula to Orion personally and have her serve as court goddess. He also intends to break Genghis Khan's record by having at least 100,000 wives and 1,000,000 children. He added that he may also assign her administrative paperwork. Nebula has not taken any of this seriously.
