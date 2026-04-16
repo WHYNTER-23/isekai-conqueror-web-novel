@@ -111,7 +111,7 @@ Highly competent strategist who defaults to the path of least personal inconveni
 - Space Barbarian (the one that stuck)
 
 **Known Abilities and Assets:**
-- Royal Authority: granted by Nebula. Provides longevity and regenerative capability sufficient to survive any injury short of total cerebral destruction. Has a secondary information display function showing names and status readings of individuals. Julius is still learning deliberate control of this secondary function.
+- Royal Authority: granted by Nebula. Provides longevity and regenerative capability sufficient to survive any injury short of total cerebral destruction.
 - Full command of Solar Empire military and research apparatus
 - Full access to all Solar Empire technology
 - Full access to all resources on Solar Island
